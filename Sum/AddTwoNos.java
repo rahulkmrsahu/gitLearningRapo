@@ -7,5 +7,7 @@ public class AddTwoNos {
         int sum=0;
         sum=a+b;
         System.out.println("sum="+sum);
+        System.out.println("Lean sum of two numbes..easy and simple");
+        System.out.println("Wait what about substraction and multiplication");
     }
 }
